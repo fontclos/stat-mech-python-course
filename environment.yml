@@ -1,0 +1,6 @@
+name: stat-mech-python-course
+
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
