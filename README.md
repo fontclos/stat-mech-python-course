@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab)
+
 # Introduction to Statistical Mechanics in Python 3
 Introduction to Statistical Mechanics in python 3.x, using jupyter notebooks.
 This repository is part of the University of Milano course *Introduzione alla Fisica Statistica*. 
