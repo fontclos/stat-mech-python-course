@@ -7,7 +7,7 @@ We will go through the notebooks of each seassion together. Each notebook explor
 Please send your solutions **no later than two weeks** after the lecture to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it, e.g.: *1.1-Generating-Random-Numbers-**Mario-Rossi**.ipynb*
 
 
-## Starting the jupyter app
+## Getting started
 Open a terminal and `cd` to a directory of your choice
 ```bash
 $ cd Documents
