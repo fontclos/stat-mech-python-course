@@ -42,7 +42,6 @@ Being able to **re-use someone else's code** is as important as being able to wr
 + [Numpy documentation](https://docs.scipy.org/doc/numpy/reference/routines.html)
 + [Scipy documentation](https://docs.scipy.org/doc/scipy/reference/)
 + [Jupyter Lab documentation](https://jupyterlab.readthedocs.io/en/stable/)
-+ [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 ## Contact
 You can reach me at `francesc.font@unimi.it` if you need any help.
