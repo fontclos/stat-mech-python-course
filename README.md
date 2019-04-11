@@ -4,9 +4,9 @@ This repository is part of the University of Milano course *Introduzione alla Fi
 
 
 ## How to follow these lectures
-We will go through the notebooks in the `session-*` folders together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together.
+We will go through the notebooks of each seassion together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than two weeks** after the lecture to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it: 1.1-Generating-Random-Numbers-**Mario-Rossi**.ipynb
+Please send your solutions **no later than two weeks** after the lecture to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it, e.g.: *1.1-Generating-Random-Numbers-**Mario-Rossi**.ipynb*
 
 
 ## Starting the jupyter app
