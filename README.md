@@ -38,6 +38,13 @@ A browser window/tab pointing to `localhost:8888` will open automatically. Open 
 ## Installing jupyter in your computer
 If you want to try this at home, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all this without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
 
+## Searching for help online
+Being able to **re-use someone else's code** is as important as being able to write your own. You are *not* supposed to figure out everything by yourself, so googling *how to X in python* is just fine. In addition, some useful resources are:
++ [Stackoverflow](https://stackoverflow.com/)
++ [Numpy documentation](https://docs.scipy.org/doc/numpy/reference/routines.html)
++ [Scipy documentation](https://docs.scipy.org/doc/scipy/reference/)
++ [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
 ## Contact
 You can reach me at `francesc.font@unimi.it` if you need any help.
 
