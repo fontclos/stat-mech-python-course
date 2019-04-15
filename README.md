@@ -12,6 +12,13 @@ Please send your solutions **no later than the indicated date** to *francesc.fon
 |---------|-----------|
 | session-1-intro-probability | 2019-04-28, 23:59h |
 
+New material be added to the repository during the semester. To update your local copy of the repository and get the new material, run 
+
+```bash
+$ cd stat-mech-python-course
+$ git pull
+```
+Remember to **rename the notebooks** you are working on to avoid content being overwritten.
 
 ## Getting started
 Open a terminal and `cd` to a directory of your choice
@@ -29,12 +36,12 @@ $ which python
 ```
 Clone this repository
 ```bash
-git clone https://github.com/fontclos/stat-mech-python-course.git
+$ git clone https://github.com/fontclos/stat-mech-python-course.git
 ```
 A new folder called `stat-mech-python-course` will be created. Enter it and start jupyter by typing `jupyter lab`
 ```bash
-cd stat-mech-python-course
-jupyter lab
+$ cd stat-mech-python-course
+$ jupyter lab
 ```
 A browser window/tab pointing to `localhost:8888` will open automatically. Open the `session-1-intro-probability` folder, then open the first notebook by double-clicking `1.1-Generating-Random-Numbers.ipynb`. You are ready to go!
 
