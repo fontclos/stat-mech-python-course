@@ -12,6 +12,7 @@ Please send your solutions **no later than the indicated date** to *francesc.fon
 |---------|-----------|
 | session-1-intro-probability | 2019-04-28, 23:59h |
 
+## Updating your local copy of the repository
 New material be added to the repository during the semester. To update your local copy of the repository and get the new material, run 
 
 ```bash
@@ -57,6 +58,6 @@ Being able to **re-use someone else's code** is as important as being able to wr
 + [Jupyter Lab documentation](https://jupyterlab.readthedocs.io/en/stable/)
 
 ## Contact
-You can reach me at `francesc.font@unimi.it` if you need any help.
+You can reach me at `francesc.font@unimi.it` if you need any help, or pass by my office DC/T/6 (right behind Aula Caldirola). Since I am not always in my office, it is better if you make an appointment beforehand.
 
 
