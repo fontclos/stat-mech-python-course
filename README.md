@@ -52,11 +52,18 @@ If you want to try this at home, you need a modern installation of `python`, tog
 
 ## Searching for help online
 Being able to **re-use someone else's code** is as important as being able to write your own. You are *not* supposed to figure out everything by yourself, so googling *how to X in python* is just fine. In addition, some useful resources are:
-+ [Stackoverflow](https://stackoverflow.com/)
-+ [Numpy documentation](https://docs.scipy.org/doc/numpy/reference/routines.html)
-+ [Scipy documentation](https://docs.scipy.org/doc/scipy/reference/)
-+ [Jupyter Lab documentation](https://jupyterlab.readthedocs.io/en/stable/)
 
++ Ask questions
+  + [Stackoverflow](https://stackoverflow.com/)
+
++ Official documentation sites
+  + [Numpy documentation](https://docs.scipy.org/doc/numpy/reference/routines.html)
+  + [Scipy documentation](https://docs.scipy.org/doc/scipy/reference/)
+  + [Jupyter Lab documentation](https://jupyterlab.readthedocs.io/en/stable/)
+
++ Tutorials
+  + [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/)
+  
 ## Contact
 You can reach me at `francesc.font@unimi.it` if you need any help, or pass by my office DC/T/6 (right behind Aula Caldirola). Since I am not always in my office, it is better if you make an appointment beforehand.
 
