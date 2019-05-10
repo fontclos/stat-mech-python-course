@@ -11,6 +11,7 @@ Please send your solutions **no later than the indicated date** to *francesc.fon
 | Session | Deadline |
 |---------|-----------|
 | session-1-intro-probability | 2019-04-28, 23:59h |
+| session-2-random-walks | 2019-05-26, 23:59h |
 
 ## Updating your local copy of the repository
 New material be added to the repository during the semester. To update your local copy of the repository and get the new material, run 
