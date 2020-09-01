@@ -8,7 +8,7 @@ We will go through the notebooks of each seassion together. Each notebook explor
 
 Please send your solutions **no later than the indicated date** to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it, e.g.: *Generating-Random-Numbers-**Mario-Rossi**.ipynb*. 
 
-| Session | Deadline           |
+| Notebook | Deadline           |
 | ------- | ------------------ |
 |         | YYYY-MM-DD, HH:MMh |
 
