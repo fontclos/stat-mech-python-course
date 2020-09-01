@@ -60,6 +60,8 @@ Being able to **re-use someone else's code** is as important as being able to wr
 + Tutorials
   + [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/)
   
++ Windows users
+  + [Pre-compiled binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 ## Contact
 You can reach me at `francesc.font@unimi.it` if you need any help. Given the current COVID situation, it is unlikely that you will find me in my office, but you can send me an email to book a skype/zoom meeting if you want to discuss some of the exercises.
