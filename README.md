@@ -6,33 +6,30 @@ This repository is part of the University of Milano course *Introduzione alla Fi
 
 We will go through the notebooks of each seassion together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than the indicated date** to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it, e.g.: *1.1-Generating-Random-Numbers-**Mario-Rossi**.ipynb*. 
+Please send your solutions **no later than the indicated date** to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it, e.g.: *Generating-Random-Numbers-**Mario-Rossi**.ipynb*. 
 
-| Session | Deadline |
-|---------|-----------|
-| session-1-intro-probability | 2019-04-28, 23:59h |
-| session-2-random-walks | 2019-05-26, 23:59h |
-| session-3-ising-model | 2019-06-23, 23:59h |
+| Session | Deadline           |
+| ------- | ------------------ |
+|         | YYYY-MM-DD, HH:MMh |
 
-## Updating your local copy of the repository
-New material be added to the repository during the semester. To update your local copy of the repository and get the new material, run 
 
-```bash
-$ cd stat-mech-python-course
-$ git pull
-```
-Remember to **rename the notebooks** you are working on to avoid content being overwritten.
+## Installing jupyter on your computer
+To follow these lectures, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all these packages without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
+
+## Using an online environment
+Alternatively, if you cannot install `jupyter` on your computer, you can use the `mybinder` online environment, which is basically an online version of the repository. Notice that the code will not run on your computer, and that you will loose your work if you close the browser window. To launch the mybinder page for the course, click here!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab)
+
+After completing a notebook, **remember to download it** to your local computer!
+
 
 ## Getting started
 Open a terminal and `cd` to a directory of your choice
 ```bash
 $ cd Documents
 ```
-If you are using a desktop computer at *Laboratorio Calcolo*, you need to activate the anaconda python installation
-```bash
-$ module load python3/anaconda
-```
-If you are using your laptop, check that you have correctly installed Anaconda's python. 
+Check that you have correctly installed Anaconda's python. 
 ```bash
 $ which python
 /home/username/anaconda3/bin/python
@@ -46,11 +43,8 @@ A new folder called `stat-mech-python-course` will be created. Enter it and star
 $ cd stat-mech-python-course
 $ jupyter lab
 ```
-A browser window/tab pointing to `localhost:8888` will open automatically. Open the `session-1-intro-probability` folder, then open the first notebook by double-clicking `1.1-Generating-Random-Numbers.ipynb`. You are ready to go!
+A browser window/tab pointing to `localhost:8888` will open automatically. Open the `notebooks` folder, then open the first notebook by double-clicking `1-Generating-Random-Numbers.ipynb`. You are ready to go!
 
-
-## Installing jupyter in your computer
-If you want to try this at home, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all this without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
 
 ## Searching for help online
 Being able to **re-use someone else's code** is as important as being able to write your own. You are *not* supposed to figure out everything by yourself, so googling *how to X in python* is just fine. In addition, some useful resources are:
@@ -66,7 +60,7 @@ Being able to **re-use someone else's code** is as important as being able to wr
 + Tutorials
   + [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/)
   
-## Contact
-You can reach me at `francesc.font@unimi.it` if you need any help, or pass by my office DC/T/6 (right behind Aula Caldirola). Since I am not always in my office, it is better if you make an appointment beforehand.
 
+## Contact
+You can reach me at `francesc.font@unimi.it` if you need any help. Given the current COVID situation, it is unlikely that you will find me in my office, but you can send me an email to book a skype/zoom meeting if you want to discuss some of the exercises.
 
