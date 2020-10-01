@@ -2,11 +2,11 @@
 
 # Introduction to Statistical Mechanics in Python 3
 Introduction to Statistical Mechanics in python 3.x, using jupyter notebooks.
-This repository is part of the University of Milano course *Introduzione alla Fisica Statistica*. 
+This repository is part of the University of Milano course [Introduzione alla Fisica Statistica](http://labonline.ctu.unimi.it/course/view.php?id=149).
 
 We will go through the notebooks of each seassion together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than the indicated date** to *francesc.font@unimi.it*. Also, please rename the `.ipynb` file and add your name to it, e.g.: *Generating-Random-Numbers-**Mario-Rossi**.ipynb*. 
+Please send your solutions **no later than the indicated date** using the [labonline UniMi course](http://labonline.ctu.unimi.it/course/view.php?id=149). 
 
 | Notebook | Deadline           |
 | ------- | ------------------ |
