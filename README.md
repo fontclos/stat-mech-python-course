@@ -6,7 +6,7 @@ This repository is part of the University of Milano course [Introduzione alla Fi
 
 We will go through the notebooks of each seassion together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than the indicated date** using the [labonline UniMi course](http://labonline.ctu.unimi.it/course/view.php?id=149). 
+Please send your solutions **no later than the indicated date** using the [labonline platform](http://labonline.ctu.unimi.it/course/view.php?id=149). 
 
 | Notebook | Deadline           |
 | ------- | ------------------ |
