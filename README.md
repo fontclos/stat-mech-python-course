@@ -25,6 +25,8 @@ After completing a notebook, **remember to download it** to your local computer!
 
 
 ## Getting started
+> These instructions should work for linux & mac users. Windows users might not be able to execute the `which` command, and might need to install the `git` command beforehand. In case of technical difficulties, please use the [binder online environment](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab).
+
 Open a terminal and `cd` to a directory of your choice
 ```bash
 $ cd Documents
