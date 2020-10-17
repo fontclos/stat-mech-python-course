@@ -61,6 +61,7 @@ Being able to **re-use someone else's code** is as important as being able to wr
 
 + Tutorials
   + [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/)
+  + [Numpy Crash Course](https://cs231n.github.io/python-numpy-tutorial/)
   
 + Windows users
   + [Pre-compiled binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
