@@ -10,7 +10,7 @@ Please send your solutions **no later than the indicated date** using the [labon
 
 | Notebook | Deadline           |
 | ------- | ------------------ |
-|         | YYYY-MM-DD, HH:MMh |
+|  3-Random-Walks.ipynb | 2020-10-30, 23:59h |
 
 
 ## Installing jupyter on your computer
