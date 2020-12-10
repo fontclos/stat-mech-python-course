@@ -11,6 +11,8 @@ Please send your solutions **no later than the indicated date** using the [labon
 | Notebook | Deadline           |
 | ------- | ------------------ |
 |  3-Random-Walks.ipynb | 2020-10-30, 23:59h |
+|  4-Ising-Model.ipynb | 2020-12-14, 23:59h |
+
 
 
 ## Installing jupyter on your computer
