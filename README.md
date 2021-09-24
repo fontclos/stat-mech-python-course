@@ -1,19 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab)
 
 # Introduction to Statistical Mechanics in Python 3
+
+> :warning:  This is a legacy version of the repository, **no longer updated since Sept 2021**. If you are taking the *Intropduzione alla Fisica Statistica* course at the University of Milano during the 2021-2022 academic year or beyond, please [use the official repository with the latest updates](https://github.com/SZapperi/stat-mech-python-course).
+
 Introduction to Statistical Mechanics in python 3.x, using jupyter notebooks.
-This repository is part of the University of Milano course [Introduzione alla Fisica Statistica](http://labonline.ctu.unimi.it/course/view.php?id=149).
-
-We will go through the notebooks of each seassion together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
-
-Please send your solutions **no later than the indicated date** using the [labonline platform](http://labonline.ctu.unimi.it/course/view.php?id=149). 
-
-| Notebook | Deadline           |
-| ------- | ------------------ |
-|  3-Random-Walks.ipynb | 2020-10-30, 23:59h |
-|  4-Ising-Model.ipynb | 2020-12-14, 23:59h |
-
-
 
 ## Installing jupyter on your computer
 To follow these lectures, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all these packages without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
@@ -68,6 +59,4 @@ Being able to **re-use someone else's code** is as important as being able to wr
 + Windows users
   + [Pre-compiled binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
-## Contact
-You can reach me at `francesc.font@unimi.it` if you need any help. Given the current COVID situation, it is unlikely that you will find me in my office, but you can send me an email to book a skype/zoom meeting if you want to discuss some of the exercises.
 
